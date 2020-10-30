@@ -1,5 +1,8 @@
 html {
     font-size: 10px;
+    background: url(https://i.pinimg.com/originals/51/c2/2e/51c22e9f59f506d283c1b07fa92e9a93.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 * {
@@ -28,8 +31,10 @@ small {
 }
 
 .title {
+    margin-top: 200px;
     font-size: 4.4rem;
     text-align: center;
+    color: papayawhip;
 }
 
 .form {
@@ -40,6 +45,7 @@ small {
     font-size: 1.2rem;
     margin-bottom: 0.2rem;
     text-transform: uppercase;
+    color: papayawhip;
 }
 
 .input {
@@ -52,7 +58,7 @@ small {
 }
 
 .button {
-    background-color: rgba(0,0,0,0.75);
+    background-color: rgba(245, 226, 165, 0.75);
     color: white;
     padding: 1rem 2rem;
     border: 1px solid rgba(0,0,0,0.75);
